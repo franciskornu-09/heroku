@@ -24,10 +24,10 @@
     <allow-intent href="itms-apps:*" />
   </platform>
   <platform name="android">
-    <icon src="ic_launcher/web_hi_res_512.png" density="ldpi" />
-    <icon src="ic_launcher/res/mipmap-mdpi/ic_launcher.png" density="mdpi" />
+    <icon src="ic_launcher/res/mipmap-hdpi/ic_launcher.png" density="ldpi" />
+    <icon src="ic_launcher/res/mipmap-hdpi/ic_launcher.png" density="mdpi" />
     <icon src="ic_launcher/res/mipmap-hdpi/ic_launcher.png" density="hdpi" />
-    <icon src="ic_launcher/res/mipmap-xhdpi/ic_launcher.png" density="xhdpi" />
+    <icon src="ic_launcher/res/mipmap-hdpi/ic_launcher.png" density="xhdpi" />
   </platform>
   <platform name="ios">
     <!-- iOS 8.0+ -->
