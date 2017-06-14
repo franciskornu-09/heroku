@@ -1,0 +1,71 @@
+body{
+	margin-top: 30px;
+	min-height: 80%;
+	width: 90%;
+	padding: 0px;
+}
+.txtbox{
+	height: 50px; 
+    width: 250px; 
+    background-color: transparent;  
+    border-style: solid;  
+    border-width: 2px 2px 2px 2px;  
+    border-color: #A1CD3A; 
+    margin-left: 50px;
+    text-align: center;
+}
+
+#content {
+	width:11.85in;
+    margin-left: 500px;
+	vertical-align:top;	
+}
+
+th,td{
+	text-align: center;
+    padding: 8px;
+	border: 0px solid #ddd;
+}
+
+tr:hover {
+	background-color: #ddd;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color:#A1CD3A;
+    color:black;
+}
+
+button {
+
+	/*display: inline-block;*/
+	border-radius: 4px;
+	background-color:#A1CD3A;
+	color: white;
+	text-align: center;
+	padding: 15px 30px;
+	width: 100px;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin-left: 60px;
+}
+
+#imgBody{
+	background-image:url("oasis.png");
+}
+
+
+#box{
+	background-color:#e6e6e6;
+	margin-left:200px;
+	width:900px;
+	border-style: solid;  
+    border-width: 3px 3px 3px 3px;  
+    border-color: black;
+}
+
+h2{
+	color:#A1CD3A;
+ }
